@@ -40,7 +40,7 @@ Each turn exercises a different part of the system.
 | 4 | Are there any date inconsistencies? | `underwriting_analysis` | Cross-section inconsistency detection |
 | 5 | Generate the final underwriting summary | `summary_generator` | Full 17-section structured report |
 
-Full transcript in [`transcript.txt`](transcript.txt). Generated summary in [`summary.json`](summary.json).
+
 
 ---
 
