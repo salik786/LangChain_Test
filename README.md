@@ -1,6 +1,6 @@
 # NobleOak Underwriting Agent
 
-> A conversational AI assistant for life insurance underwriting. Point it at an application PDF, ask questions in plain English, and get answers grounded in the document — no hallucination, no guessing.
+> A conversational AI assistant for life insurance underwriting. Point it at an application PDF, ask questions in plain English, and get answers grounded in the document no hallucination, no guessing.
 
 Built with LangGraph for Exercise 3 of the NobleOak AI assessment.
 
@@ -22,7 +22,7 @@ Python 3.11+, one API key, no other setup required.
 
 ## What I Built
 
-A command-line underwriting assistant that lets an underwriter have a real conversation with an insurance application PDF. You ask questions in plain English. It searches the document, applies underwriting rules, and generates a structured report — all without making things up.
+A command-line underwriting assistant that lets an underwriter have a real conversation with an insurance application PDF. You ask questions in plain English. It searches the document, applies underwriting rules, and generates a structured report all without making things up.
 
 The five-turn demo below shows it working end to end against the provided `Input_Sample.pdf` (John Smith, policy #168460-43865).
 
